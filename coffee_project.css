@@ -1,0 +1,227 @@
+.a3
+{
+    height: 371px;
+    width: 1348px;
+   background-image: url(./Image/How\ To\ Make\ Cold\ Brew\ Coffee\ at\ Home\ -\ The\ Best\ Cold\ Brew\ Recipe\ \(1\).jpg); 
+background-repeat: no-repeat;
+text-align: center;
+color: white;
+}
+
+.b4{
+    height: 324px;
+    width: 1360px;
+    background-color: rgba(234, 245, 231, 0.808);
+    display: flex;
+    color: black;
+    border: 3px solid grey;
+
+}
+
+.c3
+{
+    background-color: rgb(122, 209, 122);
+    width: 300px;
+margin-left: 500px;
+box-shadow:2px 2px ;
+}
+.c5
+{padding-top: 10px;
+    height: 200px;
+    width: 960px;
+ margin-left: 170px;
+ background-color: rgb(218, 233, 220);
+}
+.c6
+{
+    height: 179px;
+    width: 489px;
+    margin-left: 235px;
+}
+.c8{
+    height: 179px;
+    width: 204px;
+    margin-left: 397px; 
+    align-items: center;
+    padding-right: 25px;
+   
+}
+.c8:hover {
+    background-color: rgb(172, 121, 55);
+    color: white;
+  }
+.c9{
+    height: 191px;
+    width: 145px;
+    margin-left: 577px; 
+    padding-left: 10px;
+    align-items: center;
+   margin-top: -183px;
+   padding: px;
+   background-color: rgb(218, 233, 220);;
+   align-items: center;
+}
+.c9:hover {
+    background-color: rgb(172, 121, 55);
+    color: white;
+   
+  }
+.c10{
+    height: 191px;
+    width: 145px;
+    margin-left: 722px; 
+    padding-left: 10px;
+    align-items: center;
+   margin-top: -192px;
+    align-items: center;
+}
+.c10:hover {
+    background-color:rgb(172, 121, 55);
+    color: white;
+   }
+
+.d5
+{padding-top: 10px;
+    height: 200px;
+    width: 960px;
+ margin-left: 170px;
+ background-color: rgb(218, 233, 220);
+}
+
+.d8{
+    height: 179px;
+    width: 204px;
+    margin-left: 397px; 
+    align-items: center;
+    padding-right: 25px;
+   
+}
+.d8:hover {
+    background-color: rgb(172, 121, 55);
+    color: white;
+}
+.d9{
+    height: 191px;
+    width: 145px;
+    margin-left: 577px; 
+    padding-left: 10px;
+    align-items: center;
+   margin-top: -183px;
+   padding: px;
+   background-color: rgb(218, 233, 220);
+   align-items: center;
+}
+.d9:hover {
+    background-color: rgb(172, 121, 55);
+    color: white;
+}
+.d10{
+    height: 191px;
+    width: 145px;
+    margin-left: 722px; 
+    padding-left: 10px;
+    align-items: center;
+   margin-top: -192px;
+    align-items: center;
+}
+.d10:hover {
+    background-color: rgb(172, 121, 55);
+    color: white;
+}
+
+.f1
+{
+   
+    width: 501px;
+    
+}
+.f1:hover
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.f2
+{
+    
+    width: 501px;
+    margin-left: 200px;
+    
+}
+.f9
+{
+    
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
+
+.f11{
+    border: 2px black solid;
+    width: 700px;
+    margin-left: 300px;
+ padding-left: 100px;
+ padding-right: 100px;
+}
+.f11:hover
+{
+background-color: black;
+    color: white;
+}
+.k1
+{
+    width: 1348px;
+    background-color: darkgreen;
+    color: black;
+}
+.k2{
+    padding-left: 650px;
+    width: 25%;
+    align-items: center;
+}
+.k5{
+    margin-left: 600px;
+    color: white;
+}
+
+.n3{
+    width: 250px;
+    height: 250px;
+}
+.n4{
+    width: 250px;
+    height: 250px;
+}
+
+.n5{
+    width: 250px;
+    height: 250px;
+}
+
+#i2{
+    padding-left: 100px;
+}
+.n6{
+    width: 250px;
+    height: 250px;
+}
+.n7{
+    width: 250px;
+    height: 250px;
+}
+.n2
+{
+padding-left: 45px;
+}
+
+#n11:hover
+{
+box-shadow:5px 5px rgb(179, 95, 95);
+}   
+.g5:hover
+{
+text-shadow: 2px 2px;
+}
+
+.body{
+    background-color: blanchedalmond;
+}
